@@ -31,4 +31,7 @@ containing product, brand, rating, and revenue information.
   - Conditional Formatting
   - Charting (Bar Charts, Pie Charts)
   - Manual Dashboard Layout for performance
-  - Use Slicer for Product Category 
+  - Use Slicer for Product Category
+
+**Dashboard Image**
+![Image Description](Image/Excel.jpg)
